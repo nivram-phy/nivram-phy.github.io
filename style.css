@@ -8,8 +8,11 @@
   --accent:#8c3f2f;
   --soft:#f1f1ed;
   --ongoing:#355f55;
-  --complete:#747a7d;
+  --completed:#747a7d;
   --discontinued:#8c3f2f;
+  --superseded:#8a7652;
+  --installed:#355f55;
+  --published:#4e5f7a;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
